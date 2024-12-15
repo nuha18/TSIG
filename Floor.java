@@ -26,7 +26,7 @@ public class Floor{
             }
         }
         if(findex != -1){
-            System.out.println("The index of floor of k: "+k+" is "+findex);
+            System.out.println("The index of floor of k i.e. "+k+" is: "+findex);
         }
         else{
             System.out.println("-1");
